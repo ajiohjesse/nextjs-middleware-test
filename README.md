@@ -1,6 +1,6 @@
 # Next.js middleware test
 
-[Preview website](https://bookmarker.vercel.app)
+[Preview website](https://nextjs-middleware-test-five.vercel.app/)
 
 The purpose of this repo is the test the functionality of Next.js middleware in production.
 
